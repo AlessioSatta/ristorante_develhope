@@ -2,3 +2,4 @@ Nome ristorante: Develhope
 Tipo di menù: Carne
 Bevande: acqua, vino, birra
 Antipasti: gnocco fritto con crudo, tartare di salmone
+Primo Piatto: Pasta al ragu'
